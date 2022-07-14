@@ -1,1 +1,1 @@
-This is the main branch.
+This is the main branch. I'm just checking the difference between git diff. and git diff --cached
