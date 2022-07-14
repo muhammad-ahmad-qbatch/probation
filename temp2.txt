@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is check main
-=======
-This is check 2
->>>>>>> refs/remotes/origin/main
-=======
-This is check new
->>>>>>> new
+This is the main branch.
