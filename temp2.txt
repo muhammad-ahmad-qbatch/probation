@@ -1,1 +1,1 @@
-This is the check branch. I'm just checking the difference between git diff. and git diff --cached
+This is the new branch. I'm just checking the difference between git diff. and git diff --cached
